@@ -46,7 +46,7 @@ export const RiskScore = () => {
               <dd class="mt-2 text-md text-black">4. Monitor your accounts regularly: Regularly check your bank and credit card statements for suspicious activity. If you see anything unusual, contact your bank or credit card company immediately. 
 </dd>
             </div>
-            <div class="border-t border-gray-200 pt-4"></div>
+            {/* <div class="border-t border-gray-200 pt-4"></div> */}
             {/* <div class="border-t border-gray-200 pt-4">
               <dt class="font-medium text-gray-900">Includes</dt>
               <dd class="mt-2 text-sm text-gray-500">Wood card tray and 3 refill packs</dd>
@@ -56,7 +56,7 @@ export const RiskScore = () => {
               <dt class="font-medium text-gray-900">Considerations</dt>
               <dd class="mt-2 text-sm text-gray-500">Made from natural materials. Grain and color vary with each item.</dd>
             </div> */}
-                        <div class="border-t border-gray-200 pt-4"></div>
+                        {/* <div class="border-t border-gray-200 pt-4"></div> */}
 
           </dl>
         </div>
